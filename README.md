@@ -2,7 +2,7 @@
   <h1 align="center">Fake Battary</h1>
   <h3> ফোনে নকল চার্জ  দেখাতে এই repositorie⚠</h4>
 </div>
-[Process](https://facebook.com/zukazuboraj)  
+ 🌐 [Trick Bd Post Link](https://facebook.com/zukazuboraj)    
 
 ## Connect with Me  
 
