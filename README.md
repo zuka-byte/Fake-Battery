@@ -1,10 +1,11 @@
-<div align="center">
+.<div align="center">
   <h1 align="center">Fake Battary</h1>
   <h3> ফোনে নকল চার্জ  দেখাতে এই repositorie⚠</h4>
 </div>
-## 
-Follow [Trick Bd Postl](https://t.me/deltaunitmarket:
-<a href="https://t.me/deltaunitmarket">
+# Welcome 🦋  
+
+[![Visit My Profile](https://img.shields.io/badge/Click-Here-blue?style=for-the-badge)](https://github.com/zukazuborajBangladesh) ![butterfly](https://media.giphy.com/media/l3vR9O5S7J3G7zrU4/giphy.gif)
+
 
 ## Connect with Me  
 
