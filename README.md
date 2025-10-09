@@ -1,0 +1,19 @@
+<div align="center">
+  <h1 align="center">Fake Battary</h1>
+  <h3> ফোনে নকল চার্জ  দেখাতে এই repositorie⚠</h4>
+</div>
+```bash
+Process
+```bash
+
+## Connect with Me  
+
+- 🌐 [Facebook](https://facebook.com/zukazuboraj)        
+
+## Follow our [Telegram channel](https://t.me/deltaunitmarket):
+#### Join our Telegram channel for updates and notifications about the latest Trick releases:
+<a href="https://t.me/deltaunitmarket">
+  <img src="https:cdg.shields.io/badge/TeTelegram-A5E0?style=for-the-badge&logo=telegram&logoColor=white">
+</a>
+
+
