@@ -2,7 +2,9 @@
   <h1 align="center">Fake Battary</h1>
   <h3> ফোনে নকল চার্জ  দেখাতে এই repositorie⚠</h4>
 </div>
-## Follow [Trick Bd Postl](https://t.me/deltaunitmarket:
+## 
+Follow [Trick Bd Postl](https://t.me/deltaunitmarket:
+<a href="https://t.me/deltaunitmarket">
 
 ## Connect with Me  
 
