@@ -3,7 +3,8 @@
   <h3> ফোনে নকল চার্জ  দেখাতে এই repositorie⚠</h4>
 </div>
 
-[![Animated Link](https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=FF69B4&lines=Click+Here+🦋;Visit+My+Profile)](https://github.com/zukazuborajBangladesh)
+[👉 Process Trick bd post](https://example.com)
+
 
 ## Connect with Me  
 
