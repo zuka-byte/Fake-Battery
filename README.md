@@ -2,9 +2,7 @@
   <h1 align="center">Fake Battary</h1>
   <h3> ফোনে নকল চার্জ  দেখাতে এই repositorie⚠</h4>
 </div>
-```bash
-Process
-```bash
+[Process](https://facebook.com/zukazuboraj)  
 
 ## Connect with Me  
 
