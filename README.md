@@ -3,8 +3,7 @@
   <h3> ফোনে নকল চার্জ  দেখাতে এই repositorie⚠</h4>
 </div>
 
-[![Visit My Profile](https://img.shields.io/badge/Click-Here-blue?style=for-the-badge)](https://www.youtube.com/results?search_query=github+best+link+add+readne) ![butterfly](https://media.giphy.com/media/l3vR9O5S7J3G7zrU4/giphy.gif)
-
+[![Animated Link](https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=FF69B4&lines=Click+Here+🦋;Visit+My+Profile)](https://github.com/zukazuborajBangladesh)
 
 ## Connect with Me  
 
