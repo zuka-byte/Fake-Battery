@@ -3,7 +3,7 @@
   <h3> ফোনে নকল চার্জ  দেখাতে এই repositorie⚠</h4>
 </div>
 
-[👉 Click Here to view Process Trick bd post](https://example.com)
+[👉 Click Here to view Process(https://www.youtube.com/watch?si=ZUBJ8uKY2HZBy3ok&v=LGXUNNOshAE&feature=youtu.be)
 
 
 ## Connect with Me  
